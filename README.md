@@ -11,4 +11,4 @@ iKart is a Smart IOT Vending Solution specifically for ice cream products.
 1. Numpy
 2. Servoblaster
 3. GPIO
-4. HX711
+4. HX711py
